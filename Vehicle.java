@@ -10,5 +10,7 @@ public class Vehicle {
 		de.start();
 		de.stop();
 		
+        ElectricEngine ee = new ElectricalEngine();
+        ee.start();
 	}
 }
