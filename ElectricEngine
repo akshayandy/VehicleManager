@@ -1,0 +1,5 @@
+public class ElectricalEngine{
+    public void start(){
+        System.out.println("Electric Vehicle Started");
+    }
+}
