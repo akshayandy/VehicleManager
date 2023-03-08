@@ -2,19 +2,19 @@ public class Vehicle {
 
 	public static void main(String[] args) {
 		System.out.println("Hello");
-		PetrolEngine pe = new PetrolEngine();
-		pe.start();
-		pe.stop();
+		PetrolEngine Pe = new PetrolEngine();
+		Pe.start();
+		Pe.stop();
 		
-		DiselEngine de = new DiselEngine();
-		de.start();
-		de.stop();
+		DiselEngine De = new DiselEngine();
+		De.start();
+		De.stop();
 		
-        ElectricEngine ee = new ElectricalEngine();
-        ee.start();
+        ElectricEngine Ee = new ElectricEngine();
+        Ee.start();
 
-		HydrogenEngine he = new HydrogenEngine();
-		he.start();
-		he.stop();
+		HydrogenEngine He = new HydrogenEngine();
+		He.start();
+		He.stop();
 	}
 }
