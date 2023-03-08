@@ -1,4 +1,4 @@
-public class HydrogenEngine(){
+public class HydrogenEngine{
     public void start(){
         System.out.println("Hydrogen Vehicle Started");
     }
