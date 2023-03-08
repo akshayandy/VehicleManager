@@ -1,8 +1,8 @@
-public class ElectricalEngine{
-    public void start(){
+public class ElectricalEngine {
+    public void start() {
         System.out.println("Electric Vehicle Started");
     }
-    public void stop(){
+    public void stop() {
         System.out.println("Electric Vehicle Stopped");
     }
 }
