@@ -5,4 +5,12 @@ public class DiselEngine{
 	public void stop() {
 		System.out.println("Disel Vehicle stopped");
 	}
+
+	public void generatePower(){
+		System.out.println("Disel engine is generating power");
+	}
+
+	public void addFuel(){
+		
+	}
 }
